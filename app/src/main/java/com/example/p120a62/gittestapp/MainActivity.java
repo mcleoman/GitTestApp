@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         /*
-         update text to display Hello Git instead of Hello World
+         2nd branch
          */
     }
 
